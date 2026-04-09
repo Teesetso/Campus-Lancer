@@ -84,16 +84,3 @@ campus_lancer/
 
 ---
 
-## Pages each group member should build (views folder)
-| File | Page | Who builds |
-|---|---|---|
-| landing.ejs | Landing page | Member 1 |
-| login.ejs | Login | Member 2 |
-| register_choice.ejs + register_student.ejs | Student register | Member 3 |
-| register_business.ejs | Business register | Member 4 |
-| student_dashboard.ejs | Student dashboard | Member 5 |
-| business_dashboard.ejs | Business dashboard | Member 6 |
-| tasks.ejs | Browse tasks | Member 7 |
-| apply.ejs | Apply to task | Member 8 |
-| submit.ejs | Submit work | Member 9 |
-| applicants.ejs + post_task.ejs | Business manage | Member 10 |
